@@ -2,7 +2,7 @@ import { GraduationCap } from "lucide-react";
 
 export default function CurriculoButton({
   icon: Icon = GraduationCap,
-  link = "/docs/Curriculo.pdf"
+  link = "/docs/Curriculo_Bianca_Lourenco.pdf"
 }) {
   return (
     <a

@@ -120,7 +120,7 @@ export default function Home() {
           <div className="space-y-6">
             <EducationCard 
               title="Bacharelado em Ciências da Computação - Instituto Federal de São Paulo (IFSP)"
-              period="2022 - 2026"
+              period="2022 - 2025"
               icon={GraduationCap}
             />
             
@@ -202,7 +202,7 @@ export default function Home() {
               </h2>
             <br />
             <p className="text-stone-900 leading-relaxed mb-4">
-              Oi! Tenho 21 anos e comecei a programar aos 14, quando entrei no curso técnico em Informática. Desde então, venho estudando e me apaixonando cada vez mais por tecnologia. Hoje estou finalizando o bacharelado em Ciência da Computação e já sou formada como Técnica em Informática para Internet, o que me deu uma ótima base em desenvolvimento back-end e front-end. Adoro explorar novas linguagens, aprender ferramentas diferentes e me desafiar em projetos que me tirem da zona de conforto. Sou curiosa por natureza e estou sempre em busca de evoluir como desenvolvedora.
+              Oi! Tenho 21 anos e comecei a programar aos 14, quando entrei no curso técnico em Informática. Desde então, venho estudando e me apaixonando cada vez mais por tecnologia. Sou formada em Ciência da Computação e também em Técnica em Informática para Internet, formações que me deram uma ótima base em desenvolvimento back-end e front-end. Adoro explorar novas linguagens, aprender ferramentas diferentes e me desafiar em projetos que me tirem da zona de conforto. Sou curiosa por natureza e estou sempre em busca de evoluir como desenvolvedora.
             </p>
 
             <p className="text-stone-900 leading-relaxed">

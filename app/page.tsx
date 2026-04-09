@@ -70,7 +70,7 @@ export default function Home() {
             </div>
 
             {/* Coluna da direita - Imagem com botões sobrepostos */}
-            <div className="relative flex justify-center items-center md:w-[420px] md:h-[420px]" data-aos="zoom-in">
+            <div className="relative flex justify-center items-center md:w-105 md:h-105" data-aos="zoom-in">
               <div className="absolute inset-0 rounded-full border-2 border-gray-50"></div>
               <Image
                 src="/icons/Icon.svg"
@@ -126,7 +126,7 @@ export default function Home() {
             
             <EducationCard 
               title="Técnico em Informática para Internet - Escola Técnica Estadual (ETEC)"
-              period="2018 - 2021"
+              period="2019 - 2021"
               icon={GraduationCap}
             />
           </div>
@@ -147,7 +147,7 @@ export default function Home() {
             
             <ExtensionCard 
               title="Diretora de Comunicação - Associação Acadêmica Atlética Arthur Chiodi"
-              period="Jan/2023 - Dez/2025"
+              period="Jan/2023 - Dez/2024"
               description="Trabalho voluntário na Atlética Arthur Chiodi, com atuação nas áreas de comunicação e gestão de redes sociais, contribuindo para a criação de artes para posts, aumento do engajamento do público e organização de campanhas e eventos."
               icon={AtSign}
               link=""
@@ -174,7 +174,7 @@ export default function Home() {
               alt="Bianca"
               width={400}
               height={400}
-              className="object-cover w-[290px] md:w-[320px] lg:w-[360px] h-auto rounded-2xl min-w-[290px] min-h-[290px]"
+              className="object-cover w-72.5 md:w-[320px] lg:w-90 h-auto rounded-2xl min-w-72.5 min-h-72.5"
             />
 
             <span className="absolute bottom-4 right-0">
@@ -197,7 +197,7 @@ export default function Home() {
                   alt="Estrela"
                   width={100}
                   height={100}
-                  className="ml-2 md:ml-4 w-[100px] md:w-[100px] h-auto"
+                  className="ml-2 md:ml-4 w-25 md:w-25 h-auto"
                 />
               </h2>
             <br />
